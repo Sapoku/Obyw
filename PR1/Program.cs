@@ -10,14 +10,11 @@ namespace PR1
     {
         static void Main(string[] args)
         {
+            Obyw obyw = new Obyw();
+            obyw.Input();
         }
     }
 
 
-    class Obyw
-    {
-        public string proizv { get; set; }
-        public float razm { get; set; }
-        public double sena { get; set; }
-    }
+    
 }
