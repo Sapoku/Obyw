@@ -1,0 +1,2 @@
+C:\Users\saku1\Desktop\Новая папка\PR1\PR1\obj\Debug\PR1.csprojResolveAssemblyReference.cache
+C:\Users\saku1\Desktop\Новая папка\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
