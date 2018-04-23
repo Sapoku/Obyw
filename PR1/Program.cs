@@ -10,6 +10,8 @@ namespace PR1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HALO WARLD");
+            Console.ReadKey();
         }
     }
 
@@ -19,5 +21,11 @@ namespace PR1
         public string proizv { get; set; }
         public float razm { get; set; }
         public double sena { get; set; }
+
+        public Obyw()
+        {
+            
+        }
     }
+   
 }
